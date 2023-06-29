@@ -1,2 +1,2 @@
-# bash_scripting.
-Simulate Login system in Linux using bash scripting.
+# bash_scripting
+Simulated database system in Linux using bash scripting.
